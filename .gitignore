@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.venv/
+relatorio_conciliacao.xlsx
